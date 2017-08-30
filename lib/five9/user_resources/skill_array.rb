@@ -1,4 +1,4 @@
-module Five9
+module Five9ws
   class SkillArray
     attr_accessor :skills
     def initialize(args)
