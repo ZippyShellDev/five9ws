@@ -1,4 +1,4 @@
-module Five9
+module Five9ws
   class Statistics < Base
     def initialize(username,password,timeout=300)
       super(username,password,"https://api.five9.com/wssupervisor/SupervisorWebService?wsdl&user=",timeout)
