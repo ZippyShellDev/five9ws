@@ -1,3 +1,3 @@
-module Five9
-  VERSION = "0.1.1"
+module Five9ws
+  VERSION = "0.1.2"
 end
