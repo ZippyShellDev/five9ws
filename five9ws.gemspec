@@ -9,8 +9,8 @@ Gem::Specification.new do |gem|
   gem.authors       = ["David Hahn"]
   gem.email         = ["dhahn@ctatechs.com"]
   gem.description   = %q{Rubygem integration with five9 API}
-  gem.summary       = %q{Write a gem summary}
-  gem.homepage      = "https://github.com/CTA/five9"
+  gem.summary       = %q{This is a test, please do not use}
+  gem.homepage      = "https://github.com/tonysark/five9ws"
   gem.license       = "MIT"
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
