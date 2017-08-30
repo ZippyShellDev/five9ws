@@ -1,4 +1,4 @@
-module Five9
+module Five9ws
   class GeneralUser
     def initialize(args)
       @user_general_info = args.make_accessible
