@@ -1,5 +1,5 @@
 require 'savon'
-module Five9
+module Five9ws
   class Base
     def initialize(username,password,given_wsdl,timeout=300)
       #For some reason httpclient is not compatible with api.five9.com so we have to manually set this option
