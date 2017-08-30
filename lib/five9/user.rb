@@ -1,4 +1,4 @@
-module Five9
+module Five9ws
   class User
     attr_reader :general_info, :roles, :skills
     def initialize(args)
