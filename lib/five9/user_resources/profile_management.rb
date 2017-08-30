@@ -1,4 +1,4 @@
-module Five9
+module Five9ws
   module ProfileManagement
     class << self
       def establish_connection adminuser, password
