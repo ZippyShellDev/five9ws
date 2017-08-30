@@ -1,4 +1,4 @@
-module Five9
+module Five9ws
   class InboundCampaignStats < Statistics
     attr_accessor :stats
     def initialize(username,password,timeout=300)
