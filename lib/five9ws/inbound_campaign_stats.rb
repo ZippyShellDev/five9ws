@@ -4,7 +4,6 @@ module Five9ws
     def initialize(username,password,timeout=300)
       @stats = nil
       super(username,password,timeout)
-      puts "running from git"
     end
 
     def getStatistics(columns=[])
